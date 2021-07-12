@@ -1,0 +1,19 @@
+{
+  "name": "greenlight",
+  "version": "1.0.0",
+  "description": "A lightweight javascript library for clean and easy-to-use code base.",
+  "main": "gl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Petre-Gabriel/green-light.git"
+  },
+  "author": "Petre Gabriel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Petre-Gabriel/green-light/issues"
+  },
+  "homepage": "https://github.com/Petre-Gabriel/green-light#readme"
+}
